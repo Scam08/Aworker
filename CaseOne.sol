@@ -8,7 +8,8 @@ contract RequestPool {
         address[] yes;
         address[] no;
     }
-    
+
+
     struct SkillNote {
         string proof;
         address[] yes;
